@@ -42,4 +42,8 @@ def sign_shop_interface
   puts determine_total(l, w, color_int)
 end
 
+<<<<<<< HEAD
 sign_shop_interface
+=======
+sign_shop_interface 
+>>>>>>> 47634e9b962e06621d0005748977cf9e7d143224
