@@ -16,6 +16,7 @@ end
 
 def tax_calc(size_color_total)
 
+  # tax is 15%
   tax = 0.15
   tax_total = (size_color_total) * tax
 
@@ -42,8 +43,4 @@ def sign_shop_interface
   puts determine_total(l, w, color_int)
 end
 
-<<<<<<< HEAD
 sign_shop_interface
-=======
-sign_shop_interface 
->>>>>>> 47634e9b962e06621d0005748977cf9e7d143224
